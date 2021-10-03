@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Aristokitten
-- 👀 I’m interested in bridging business & technology 
-- 🌱 I’m currently learning basically everything on informatics and data science
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👀 I’m interested in bridging business & technology and contributing to a sustainable, responsible digitalization in society
+- 🌱 I’m currently learning basically everything on informatics with focus on data science
+- 💞️ I’m in love with reading books and articles on philosophy and psychology and their importance in and impact on our digital future
 
 <!---
 Aristokitten/Aristokitten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
